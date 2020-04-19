@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"><![CDATA[Idan Plus Plus]]></string>
+    <string name="browse_title"><![CDATA[Idan Plus Plus]]></string>
+
+    <!-- Error messages -->
+
+    <!-- Global Search -->
+    <!-- The action label for global search_vod -->
+
+    <!-- The label for use as a searchable item -->
+
+    <!-- The hint text that appears in the search_vod box. -->
+
+    <!-- The description that will show up in the search_vod settings for this source.  -->
+
+    <!-- Strings related to guided sequence activity -->
+    <string name="header_icon">Header icon</string>
+
+    <!-- Strings related to onboarding -->
+
+
+    <string name="playback_tag">PLAYBACK_TAG</string>
+    <string name="ISRAEL_LIVE_CHANNELS_CATEGORY">Israel Live Channels</string>
+    <string name="ISRAEL_RADIO_CHANNELS_CATEGORY">Live Israel Radio Channels</string>
+    <string name="CHANNELS_VOD_CATEGORY">VOD</string>
+    <string name="CHANNEL_11_TITLE">Channel 11</string>
+    <string name="CHANNEL_11_DESC">Channel 11 Live</string>
+    <string name="CHANNEL_12_TITLE">Channel 12</string>
+    <string name="CHANNEL_12_DESC">Channel 12 Live</string>
+    <string name="CHANNEL_13_TITLE">Channel 13</string>
+    <string name="CHANNEL_13_DESC">Channel 13 Live</string>
+    <string name="CHANNEL_23_TITLE">Channel 23</string>
+    <string name="CHANNEL_23_DESC">Channel 23 Live</string>
+    <string name="CHANNEL_MAKAN_TITLE">Channel 33</string>
+    <string name="CHANNEL_MAKAN_DESC">Channel 33</string>
+    <string name="CHANNEL_KNESSET_TITLE">Channel Knesset</string>
+    <string name="CHANNEL_KNESSET_DESC">Channel Knesset</string>
+    <string name="BACK_EXIT">Please click BACK again to exit</string>
+    <string name="UPDATE_DIALOG_TITLE">New Version found</string>
+    <string name="UPDATE_DIALOG_DESCRIPTION">Update new sotfware avialable From Version: %1$s To Version: %2$s</string>
+    <string name="UPDATE_DIALOG_BTN_UPDATE">Update</string>
+    <string name="UPDATE_DIALOG_BTN_CANCEL">Not now</string>
+    <string name="BTN_GOTIT">Got it!!</string>
+    <string name="UPDAE_ERROR_MSESSAGE_TITLE">Unexpected error please try again a few moments.</string>
+    <string name="ENGLISH_DISCLAMIER">Disclaimer / clarification\n
+        Corona time update is on its way,Stay at Home\n
+        This is an experimental project for educational purposes only and it DOES NOT host or stream any content and is not the initial source of the links.\n
+        Its purpose is to gather available sourcs from the internet and offer an interface that is usable form on non touch screens. All links can be found in other sources.\n
+        Service is completely free, non-profit and not affiliated with any commercial party. This software is free and open to the general public.\n
+        If you have paid money for installation or use of the software, you have been robbed and you are welcome to contact the parties that have engaged you.\n
+        By clicking the \"Got It\" button I confirm that I have read, understood and agree to the above\n
+        For contact please email: idanplusplus@gmail.com\n\n
+    </string>
+    <string name="HEBREW_DISCLAMIER">כתב ויתור \ הבהרה \n
+        זהו פרויקט ניסיוני .\n
+        זהו פרויקט ניסיוני למטרות לימודיות בלבד והוא אינו מארח או מזרים כל תוכן והוא לא המקור הראשוני של הקישורים.\n
+        מטרתו היא לאסוף מקורות זמינים מהאינטרנט ולהציע ממשק שמיש עבור מסכים ללא מגע. את כל הקישורים ניתן למצוא במקורות אחרים.\n
+        השירות הוא לגמרי בחינם, ללא כוונת רווח ולא מזוהה עם כל צד מסחרי.\n
+        תוכנה זו מופצת בחינם ופתוחה לכלל הציבור.\n
+        אם שילמת כסף עבור התקנה או שימוש  בתוכנה, שדדו אותך ואתה מוזמן לפנות לגורמים שעשקו אותך.\n
+        בלחיצה על הכפתור הבנתי אני מאשר שקראתי ,הבנתי ואני מסכים לאמור לעיל\n
+        ליצירת קשר יש לפנות לדואל: idanplusplus@gmail.com\n\n
+    </string>
+    <string name="WHAT_IS_NEW_TXT">
+                <![CDATA[
+<strong>מה חדש</strong><br/>
+<p>
+חברים יקרים, תקופת הלימוד של צוות עידן הסתיימה ואכן היתה למידה משמעותית מהפרוייקט הזה, אנחנו רוצים להודות לכל מי שלקח חלק בפרוייקט.<br/>
+<a href="https://idanplusplus.wordpress.com/-">עידן++ אתר חדש</a>
+</p>
+        ]]>
+    </string>
+
+
+
+    <string name="ABOUT_ITEM">About</string>
+
+    <string name="BLACK_CHANNELS_CATEGORY">כרמלה אורחים נוספים הגיעו</string>
+
+    <string name="CEHCK_FOR_UPDATE_TXT">Check for Update</string>
+    <string name="CHANNELS_ACESTREAM_CATEGORY">Ace Stream Channels</string>
+    <string name="CHANNELS_ADULTS_JUST_FOR_HIM_TITLE">Just for him</string>
+    <string name="CHANNELS_ADULTS_LIVE_IPTV_TITLE">Adult live iptv</string>
+    <string name="CHANNELS_ADULT_CATEGORY">Adult Channels</string>
+    <string name="CHANNELS_AVENGER_CATEGORY">The First Avenger donation link here: https://www.paypal.me/TheFirstAvenger867</string>
+    <string name="CHANNELS_CATEGORY">Live Channels</string>
+    <string name="CHANNELS_DRAGON_CATEGORY">Dragon for donation link here: https://www.paypal.me/dragonkodi</string>
+    <string name="CHANNELS_HULK_CATEGORY">Hulk for donation link here: https://www.paypal.me/MoshePeretz</string>
+    <string name="CHANNELS_KODI_CATEGORY">Kodi addons</string>
+    <string name="CHANNELS_MOVIES_CATEGORY">Movies</string>
+    <string name="CHANNELS_MUSIC_CATEGORY">Music</string>
+    <string name="CHANNELS_PORNO_365_TITLE">365 Adults</string>
+    <string name="CHANNELS_RADIO_CATEGORY">Live Radio Channels</string>
+
+    <string name="CHANNELS_WORLD_CATEGORY">Live World Channels</string>
+    <string name="CHANNEL_100HITZ_MUSIC_TITLE">100 Hitz</string>
+    <string name="CHANNEL_10_DESC">Channel 10 Live</string>
+    <string name="CHANNEL_10_STUDIO">Channel 10</string>
+    <string name="CHANNEL_10_TITLE">Channel 10</string>
+
+    <string name="CHANNEL_11_STUDIO">Channel 11</string>
+
+    <string name="CHANNEL_12_KIDS_TITLE">Keshet kids</string>
+    <string name="CHANNEL_12_STUDIO">Channel 12</string>
+
+    <string name="CHANNEL_13_STUDIO">Channel 13</string>
+
+    <string name="CHANNEL_2025_DESC">Channel 2025</string>
+    <string name="CHANNEL_2025_STUDIO">Channel 2025</string>
+    <string name="CHANNEL_2025_TITLE">Channel 2025</string>
+    <string name="CHANNEL_20_DESC">Channel 20</string>
+    <string name="CHANNEL_20_STUDIO">Channel 20</string>
+    <string name="CHANNEL_20_TITLE">Channel 20</string>
+    <string name="CHANNEL_21_DESC">Channel 21 Live</string>
+    <string name="CHANNEL_21_STUDIO">Channel 21</string>
+    <string name="CHANNEL_21_TITLE">Channel 21</string>
+
+    <string name="CHANNEL_24_DESC">Channel 24 Live</string>
+    <string name="CHANNEL_24_STUDIO">Channel 24</string>
+    <string name="CHANNEL_24_TITLE">Channel 24</string>
+    <string name="CHANNEL_26_DESC">Channel 26 Live</string>
+    <string name="CHANNEL_26_STUDIO">Channel 26</string>
+    <string name="CHANNEL_26_TITLE">Channel 26</string>
+    <string name="CHANNEL_5_RADIO_DESC">Channel 5 radio</string>
+    <string name="CHANNEL_5_RADIO_TITLE">Channel 5 radio</string>
+    <string name="CHANNEL_9_DESC">Channel 9</string>
+    <string name="CHANNEL_9_STUDIO">Channel 9</string>
+    <string name="CHANNEL_9_TITLE">Channel 9</string>
+    <string name="CHANNEL_AVENGER_KIDS_STUDIO">Avenger Kids</string>
+    <string name="CHANNEL_AVENGER_KIDS_TITLE">Avenger Kids</string>
+    <string name="CHANNEL_AVENGER_SDAROT_STUDIO">Avenger series</string>
+    <string name="CHANNEL_AVENGER_SDAROT_TITLE">Avenger series</string>
+    <string name="CHANNEL_AVENGER_SERIES_TITLE">Avenger Series</string>
+    <string name="CHANNEL_AVENGER_TITLE">Avenger VOD</string>
+    <string name="CHANNEL_DRAGON_SDAROT_STUDIO">סדרות מקור 1</string>
+    <string name="CHANNEL_DRAGON_SDAROT_TITLE">סדרות מקור 1</string>
+    <string name="CHANNEL_ECO_99_MUSIC_TITLE">ECO 99 MUSIC</string>
+    <string name="CHANNEL_FLUXUS_IPTV_STUDIO">Fluxus iptv</string>
+    <string name="CHANNEL_FLUXUS_IPTV_TITLE">Fluxus iptv</string>
+    <string name="CHANNEL_HIDABROT_DESC">Channel Hidabroot</string>
+    <string name="CHANNEL_HIDABROT_STUDIO">Channel Hidabroot</string>
+    <string name="CHANNEL_HIDABROT_TITLE">Channel Hidabroot</string>
+    <string name="CHANNEL_HP_MOVIES_DUB_KIDS_STUDIO">Potter heb dubbed movies</string>
+    <string name="CHANNEL_HP_MOVIES_DUB_KIDS_TITLE">Potter kids movies</string>
+    <string name="CHANNEL_HP_MOVIES_SUBS_STUDIO">Matrix movies</string>
+    <string name="CHANNEL_HP_MOVIES_SUBS_TITLE">Matrix movies</string>
+    <string name="CHANNEL_HP_PRIVATE_MOVIES_DUB_KIDS_STUDIO">Matrix dubbed</string>
+    <string name="CHANNEL_HP_PRIVATE_MOVIES_DUB_KIDS_TITLE">Matrix dubbed</string>
+    <string name="CHANNEL_HP_PRIVATE_MOVIES_ISRAEL_STUDIO">Matrix israel</string>
+    <string name="CHANNEL_HP_PRIVATE_MOVIES_ISRAEL_TITLE">Matrix israel</string>
+    <string name="CHANNEL_IDAN_SDAROT_TITLE">Edna Sdarot</string>
+    <string name="CHANNEL_IPTV_DESC">Iptv</string>
+    <string name="CHANNEL_IPTV_TITLE">Iptv</string>
+    <string name="CHANNEL_JANGO_MUSIC_TITLE">Jango music</string>
+    <string name="CHANNEL_KABALAH_DESC">Channel Kabalah</string>
+    <string name="CHANNEL_KABALAH_STUDIO">Channel Kabalah</string>
+    <string name="CHANNEL_KABALAH_TITLE">Channel Kabalah</string>
+
+    <string name="CHANNEL_KNESSET_STUDIO">Channel Knesset</string>
+
+    <string name="CHANNEL_MAKAN_STUDIO">Channel 33</string>
+
+    <string name="CHANNEL_MOVIX_MOVIES_DUB_KIDS_STUDIO">Movix dubbed</string>
+    <string name="CHANNEL_MOVIX_MOVIES_DUB_KIDS_TITLE">Movix dubbed</string>
+    <string name="CHANNEL_MUSIC_CHOISE_MUSIC_TITLE">Music choise</string>
+    <string name="CHANNEL_RADIOS_100_MUSIC_TITLE">Radios 100 music</string>
+    <string name="CHANNEL_SDAROT_365_TITLE">365 Sdarot</string>
+    <string name="CHANNEL_SDAROT_KIDS_TITLE">Sdarot Kids</string>
+    <string name="CHANNEL_SDAROT_MOVIX_TITLE">Movix Sdarot</string>
+    <string name="CHANNEL_SDAROT_TITLE">Sdarot VOD</string>
+    <string name="CHANNEL_SWIFT_STREAMZ_STUDIO">Swift Streamz live</string>
+    <string name="CHANNEL_SWIFT_STREAMZ_TITLE">Swift Streamz live</string>
+    <string name="CHANNEL_TAP_TV_STUDIO">Tap tv live</string>
+    <string name="CHANNEL_TAP_TV_TITLE">Tap Tv</string>
+    <string name="CHECK_UPDATE_MSG">Searching for update</string>
+    <string name="DNS_PREF_CHANGES">Dns changes application will restart.</string>
+    <string name="DONATIONS">Donations</string>
+    <string name="EP_TITLE">פרק</string>
+    <string name="ERROR_365">Error please try again</string>
+    <string name="EXTERNAL_APPLICATIONS_CATEGORY">External Applications</string>
+    <string name="FAVORITE_CATEGORY">Favorites</string>
+
+    <string name="ISRAEL_LIVE_IPTV_CHANNELS_CATEGORY">Iptv live channels</string>
+
+    <string name="ISRAEL_VOD_CHANNELS_CATEGORY">Israel VOD</string>
+    <string name="KEY_NOT_FOUND_365">Key not found</string>
+    <string name="KIDS_CHANNELS_CATEGORY">Kids</string>
+    <string name="LIVE_CHANNELS_CATEGORY">Live Channels</string>
+    <string name="NOT_FOUND_CONTENT_365">No Content found site is ok.</string>
+    <string name="NO_CONTENT_DIALOG_MSG">Unavailable content. Contact provider</string>
+    <string name="NO_CONTENT_DIALOG_TITLE">Warning</string>
+    <string name="NO_MARKET_FOUND_ERROR">Cannot open play market</string>
+    <string name="NO_RESUlT_FOUND">No Result found</string>
+    <string name="NO_UPDATE_FOUND">no available update was found.</string>
+    <string name="REALDEBRID_POPUP_MSG_1">Please open the below url and enter the code</string>
+    <string name="SDAROT_MOST_RATINGS_CAT">Most Ratings</string>
+    <string name="SDAROT_MOST_VIEWS_CAT">Most Views</string>
+    <string name="SDAROT_MOST_VIEWS_EP_CAT">Most Views EP</string>
+    <string name="SDAROT_NEW_EP_CAT">New Episodes</string>
+    <string name="SDAROT_NEW_SERIES_CAT">New Series</string>
+    <string name="SDAROT_SERVER_LOADS_CAT">Server Loads</string>
+    <string name="SDAROT_TOP_RATED_EP_CAT">Top Rated EP</string>
+    <string name="SDAROT_VOD_EPOISODES_OF">episodes of</string>
+    <string name="SDAROT_VOD_TARCKING_CAT">Tracking Sdarot</string>
+    <string name="SDAROT_VOD_YOU_WATCHED">you watched</string>
+    <string name="SDART_POPUP_MESSAGE_2">Please wait</string>
+    <string name="SDART_POPUP_MESSAGE_3">sec</string>
+    <string name="SDART_POPUP_MESSAGE_TITLE">Please wait 30 seconds, for Hd quality and no waiting purchase a subscription</string>
+    <string name="SDART_POPUP_MSG_1">To purchase subscription go in browser to - www.sdarot.tv/donate</string>
+    <string name="SEASON_TITLE">Season</string>
+    <string name="SERIES_CHANNELS_CATEGORY">Series</string>
+    <string name="SETTINGS_EMAIL_TITlE">E-Mail</string>
+    <string name="SETTINGS_ITEM">Settings</string>
+    <string name="SETTINGS_TELEGRAM_TITLE">Telegram group</string>
+    <string name="SETTINGS_WEBSITE_TITLE">Website site</string>
+    <string name="SOURCE_NOT_FOUND_MESSAGE">No sources are found.</string>
+    <string name="SOURCE_NOT_FOUND_TITLE">No Source Found</string>
+    <string name="SPORTS_CHANNELS_CATEGORY">SPORTS</string>
+    <string name="SPORT_365_ALERT_MSG">Sport 365 may work or may not the stream is only valid for 5 minutes then application will auto restart you wll see small buffer.</string>
+    <string name="SPORT_365_TITLE">SPORTS 365</string>
+    <string name="TELEGRAM_ACCOUNT_TITLE">Please insert your telegram account</string>
+    <string name="TELEGRAM_ENTER_CODE_TITLE">Enter telegram code</string>
+    <string name="TELEGRAM_ENTER_PHONE_NUMBER">Example: +14805551234</string>
+    <string name="TELEGRAM_ENTER_TELEGRAM_CODE">1. Check you telegram app\102. Enter the code recivied by telegram app\103. Press countinue button</string>
+    <string name="TELEGRAM_ENTER_TWO_WAY_TITLE">Enter two way password</string>
+    <string name="TELEGRAM_LOGIN_DESC">1. press logout button.</string>
+    <string name="TELEGRAM_LOGIN_SUCCESS">Logged in</string>
+    <string name="TELEGRAM_LOGOUT_BUTTON">Logout</string>
+    <string name="TELEGRAM_LOGOUT_SUCCESS">Logout success</string>
+    <string name="TELEGRAM_PHONE_DESC">1.enter you phone number as showing up in telegram app\10 2. press countinue button;</string>
+    <string name="TELEGRAM_TWO_WAY_VER_CODE_DESC">1. Enter you two way verification code\102. Press countinue button</string>
+    <string name="TELEMEDIA_CHANNEL_CATEGORY">Telemedia channel</string>
+    <string name="TELEMEDIA_DUBBED_TITLE">Telemedia dubbed</string>
+    <string name="TELEMEDIA_ISRAEL_TITLE">Telemedia israel</string>
+    <string name="TELEMEDIA_NATURE_TITLE">Telemedia nature</string>
+    <string name="TELEMEDIA_SUBBED_TITLE">Telemedia subbed</string>
+    <string name="TMDB_MOVIES_MOST_POPULAR_CAT">Most Popolar</string>
+    <string name="TMDB_MOVIES_TOP_RATED_CAT">Top Rated</string>
+    <string name="TMDB_NO_TRAILER_FOUND">No trailer found</string>
+    <string name="TMDB_SDAROT_MOST_POPOLAR_CAT">Most Popolar</string>
+    <string name="TMDB_SDAROT_TOP_RATED_CAT">Top Rated</string>
+    <string name="TORRENT_CONNECTING_TITLE">Conecting...</string>
+    <string name="TORRENT_LOADING_TITLE">Loading...</string>
+    <string name="TORRENT_SEEDS_TITLE">seeds</string>
+
+    <string name="UPDATE_PROGRESS_MESSAGE">Downloading update...</string>
+    <string name="VERSION_ITEM">Version:</string>
+    <string name="VOD_KIDS_SOURCE_WALLA">Walla Kids</string>
+    <string name="VOD_KIDS_SOURCE_WALLA_DESC">Walla Kids</string>
+    <string name="VOD_MOVIES_SOURCE_2">Movie 2</string>
+    <string name="VOD_MOVIES_SOURCE_2_DESC">Vod movices Source 2</string>
+    <string name="VOD_MOVIES_SOURCE_3">Movie 3</string>
+    <string name="VOD_MOVIES_SOURCE_3_DESC">Vod movices Source 3</string>
+    <string name="VOD_MOVIES_SOURCE_AVENGER">The first avenger</string>
+    <string name="VOD_MOVIES_SOURCE_AVENGER_DESC">Movies first avenger</string>
+    <string name="VOD_MOVIES_SOURCE_GHOST">Ghost the king</string>
+    <string name="VOD_MOVIES_SOURCE_GHOST_DESC">Ghost the king</string>
+    <string name="VOD_MOVIES_SOURCE_IDAN">Edna Movies</string>
+    <string name="VOD_MOVIES_SOURCE_IDAN_DESC">Edna Movies</string>
+    <string name="VOD_MOVIES_SOURCE_MOVIES365">365 Movies</string>
+    <string name="VOD_MOVIES_SOURCE_MOVIES365_DESC">365 Movies</string>
+    <string name="VOD_MOVIES_SOURCE_MOVIX">Movix live Movies</string>
+    <string name="VOD_MOVIES_SOURCE_MOVIX_DESC">Movix live Movies</string>
+    <string name="VOD_MOVIES_SOURCE_MOVIX_DESC_ISRAELI">Movix live Israeli</string>
+    <string name="VOD_MOVIES_SOURCE_MOVIX_ISRAELI">Movix live Israeli</string>
+    <string name="VOD_MOVIES_SOURCE_SRATIMCO">Sratim CO</string>
+    <string name="VOD_MOVIES_SOURCE_SRATIMCO_DESC">Sratim CO</string>
+    <string name="VOD_MOVIES_SOURCE_WALLA">Walla Movies</string>
+    <string name="VOD_MOVIES_SOURCE_WALLA_DESC">Walla Movies</string>
+    <string name="VOD_SDAROT_SOURCE_WALLA">Walla Sdarot</string>
+    <string name="VOD_SDAROT_SOURCE_WALLA_DESC">Walla Sdarot</string>
+    <string name="VOD_SOURCE_KODI_AVENGER">First avenger Addon</string>
+    <string name="VOD_SOURCE_KODI_AVENGER_DESC">First avenger Addon</string>
+    <string name="VOD_SOURCE_KODI_CHICCO">Chicco addon</string>
+    <string name="VOD_SOURCE_KODI_CHICCO_DESC">Chicco addon</string>
+    <string name="VOD_SOURCE_KODI_DRAGON">Dragon Addon</string>
+    <string name="VOD_SOURCE_KODI_DRAGON_DESC">Dragon Addon</string>
+    <string name="VOD_SOURCE_KODI_GHOST_MUSIC">Ghost music addon</string>
+    <string name="VOD_SOURCE_KODI_GHOST_MUSIC_DESC">Ghost music addon</string>
+    <string name="VOD_SOURCE_KODI_GHOST_PREM">Ghost Premium addon</string>
+    <string name="VOD_SOURCE_KODI_GHOST_PREM_DESC">Ghost Premium addon</string>
+    <string name="VOD_SOURCE_KODI_GHOST_SERIES">Ghost Series addon</string>
+    <string name="VOD_SOURCE_KODI_GHOST_SERIES_DESC">Ghost Series addon</string>
+    <string name="VOD_SOURCE_KODI_HULK_KIDS">Kids world addon</string>
+    <string name="VOD_SOURCE_KODI_HULK_KIDS_DESC">Kids world addon</string>
+    <string name="VOD_SOURCE_KODI_KILLER">Killer addon</string>
+    <string name="VOD_SOURCE_KODI_KILLER_DESC">Killer addon</string>
+    <string name="VOD_SOURCE_KODI_TIGER">Tiger addon</string>
+    <string name="VOD_SOURCE_KODI_TIGER_DESC">Tiger addon</string>
+    <string name="WHAT_IS_NEW">What\'s new</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="add_to_favorite">Add to favorite</string>
+
+
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_reset">Reset</string>
+    <string name="buy_1">Open</string>
+    <string name="buy_2">App</string>
+    <string name="cast_ad_label">Ad</string>
+    <string name="cast_casting_to_device">Casting to %1$s</string>
+    <string name="cast_closed_captions">Closed captions</string>
+    <string name="cast_closed_captions_unavailable">Closed captions unavailable</string>
+    <string name="cast_connecting_to_device">Connecting to %1$s</string>
+    <string name="cast_disconnect">Disconnect</string>
+    <string name="cast_expanded_controller_ad_image_description">Image displayed while the cast receiver is playing an ad</string>
+    <string name="cast_expanded_controller_ad_in_progress">Ad in progress…</string>
+    <string name="cast_expanded_controller_background_image">Album art</string>
+    <string name="cast_expanded_controller_live_head_description">Current position is at the head of the live stream</string>
+    <string name="cast_expanded_controller_live_stream_indicator">Live stream</string>
+    <string name="cast_expanded_controller_loading">Loading…</string>
+    <string name="cast_expanded_controller_skip_ad_label">Skip Ad</string>
+    <string name="cast_expanded_controller_skip_ad_text">You can skip ad in %1$d…</string>
+    <string name="cast_forward">Forward</string>
+    <string name="cast_forward_10">Forward ten seconds</string>
+    <string name="cast_forward_30">Forward thirty seconds</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
+
+    <string name="cast_label_string">Cast</string>
+    <string name="cast_live_label">LIVE</string>
+    <string name="cast_mute">Mute</string>
+    <string name="cast_notification_connected_message">Connected to %1$s</string>
+    <string name="cast_notification_connecting_message">Connecting to %1$s</string>
+    <string name="cast_notification_default_channel_name">Cast</string>
+    <string name="cast_notification_disconnect">Disconnect</string>
+    <string name="cast_pause">Pause</string>
+    <string name="cast_play">Play</string>
+    <string name="cast_rewind">Rewind</string>
+    <string name="cast_rewind_10">Rewind ten seconds</string>
+    <string name="cast_rewind_30">Rewind thirty seconds</string>
+    <string name="cast_seek_bar">Playback seek control</string>
+    <string name="cast_skip_next">Skip to next item</string>
+    <string name="cast_skip_prev">Skip to previous item</string>
+    <string name="cast_stop">Stop</string>
+    <string name="cast_stop_live_stream">Stop live stream</string>
+    <string name="cast_tracks_chooser_dialog_audio">Audio</string>
+    <string name="cast_tracks_chooser_dialog_cancel">Cancel</string>
+    <string name="cast_tracks_chooser_dialog_closed_captions">Closed Captions</string>
+    <string name="cast_tracks_chooser_dialog_default_track_name">Track %1$d</string>
+    <string name="cast_tracks_chooser_dialog_none">None</string>
+    <string name="cast_tracks_chooser_dialog_ok">OK</string>
+    <string name="cast_tracks_chooser_dialog_subtitles">Subtitles</string>
+    <string name="cast_unmute">Unmute</string>
+
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">%1$s won\'t work unless you enable Google Play services.</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">%1$s won\'t run without Google Play services, which are missing from your device.</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s won\'t run without Google Play services, which are not supported by your device.</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">%1$s won\'t run unless you update Google Play services.</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">%1$s won\'t run without Google Play services, which are currently updating.</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="dialog_ace_not_installed_message">Please install \"Ace engine\" app from Google Play</string>
+    <string name="dialog_ace_not_installed_title">Ace engine not installed</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="dialog_button_install">Install</string>
+    <string name="dialog_core_not_installed_message">Please install \"IPTV Core\" app from Google Play</string>
+    <string name="dialog_core_not_installed_title">IPTV Core not installed</string>
+    <string name="dialog_mx_not_installed_message">Please install \"Mx player\" app from Google Play</string>
+    <string name="dialog_mx_not_installed_title">Mx player not installed</string>
+    <string name="dialog_vlc_not_installed_message">Please install \"Vlc player\" app from Google Play</string>
+    <string name="dialog_vlc_not_installed_title">Vlc player not installed</string>
+    <string name="dismiss_error">Dismiss</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="exo_controls_fastforward_description">Fast forward</string>
+    <string name="exo_controls_fullscreen_description">Fullscreen mode</string>
+    <string name="exo_controls_hide">Hide player controls</string>
+    <string name="exo_controls_next_description">Next track</string>
+    <string name="exo_controls_pause_description">Pause</string>
+    <string name="exo_controls_play_description">Play</string>
+    <string name="exo_controls_previous_description">Previous track</string>
+    <string name="exo_controls_repeat_all_description">Repeat all</string>
+    <string name="exo_controls_repeat_off_description">Repeat none</string>
+    <string name="exo_controls_repeat_one_description">Repeat one</string>
+    <string name="exo_controls_rewind_description">Rewind</string>
+    <string name="exo_controls_show">Show player controls</string>
+    <string name="exo_controls_shuffle_off_description">Shuffle off</string>
+    <string name="exo_controls_shuffle_on_description">Shuffle on</string>
+    <string name="exo_controls_stop_description">Stop</string>
+    <string name="exo_controls_vr_description">VR mode</string>
+    <string name="exo_download_completed">Download completed</string>
+    <string name="exo_download_description">Download</string>
+    <string name="exo_download_downloading">Downloading</string>
+    <string name="exo_download_failed">Download failed</string>
+    <string name="exo_download_notification_channel_name">Downloads</string>
+    <string name="exo_download_removing">Removing downloads</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Alternate</string>
+    <string name="exo_track_role_closed_captions">CC</string>
+    <string name="exo_track_role_commentary">Commentary</string>
+    <string name="exo_track_role_supplementary">Supplementary</string>
+    <string name="exo_track_selection_auto">Auto</string>
+    <string name="exo_track_selection_none">None</string>
+    <string name="exo_track_selection_title_audio">Audio</string>
+    <string name="exo_track_selection_title_text">Text</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Surround sound</string>
+    <string name="exo_track_surround_5_point_1">5.1 surround sound</string>
+    <string name="exo_track_surround_7_point_1">7.1 surround sound</string>
+    <string name="exo_track_unknown">Unknown</string>
+    <string name="expand_button_title">Advanced</string>
+
+
+    <string name="fav_move_left">Move left</string>
+    <string name="fav_move_right">Move right</string>
+    <string name="grid_view">Vertical Grid View</string>
+    <string name="guidedstep_assign_device">Assign device</string>
+    <string name="guidedstep_continue">Continue</string>
+    <string name="guidedstep_revoke_device">Revoke device</string>
+
+
+    <string name="iptv_account_info_title_notv">Iptv account information</string>
+    <string name="iptv_password_hint_notv">Password</string>
+    <string name="iptv_url_hint_notv">Url/link to m3u file</string>
+    <string name="iptv_user_name_hint_notv">User name</string>
+    <string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
+    <string name="lb_control_display_rewind_multiplier">%1$dX</string>
+    <string name="lb_guidedaction_continue_title">Continue</string>
+    <string name="lb_guidedaction_finish_title">Finish</string>
+    <string name="lb_media_player_error">MediaPlayer error code %1$d extra %2$d</string>
+    <string name="lb_navigation_menu_contentDescription">Navigation menu</string>
+    <string name="lb_onboarding_accessibility_next">Next</string>
+    <string name="lb_onboarding_get_started">GET STARTED</string>
+    <string name="lb_playback_controls_closed_captioning_disable">Disable Closed Captioning</string>
+    <string name="lb_playback_controls_closed_captioning_enable">Enable Closed Captioning</string>
+    <string name="lb_playback_controls_fast_forward">Fast Forward</string>
+    <string name="lb_playback_controls_fast_forward_multiplier">Fast Forward %1$dX</string>
+    <string name="lb_playback_controls_hidden">Media controls hidden, press d-pad to show</string>
+    <string name="lb_playback_controls_high_quality_disable">Disable High Quality</string>
+    <string name="lb_playback_controls_high_quality_enable">Enable High Quality</string>
+    <string name="lb_playback_controls_more_actions">More Actions</string>
+    <string name="lb_playback_controls_pause">Pause</string>
+    <string name="lb_playback_controls_picture_in_picture">Enter Picture In Picture Mode</string>
+    <string name="lb_playback_controls_play">Play</string>
+    <string name="lb_playback_controls_repeat_all">Repeat All</string>
+    <string name="lb_playback_controls_repeat_none">Repeat None</string>
+    <string name="lb_playback_controls_repeat_one">Repeat One</string>
+    <string name="lb_playback_controls_rewind">Rewind</string>
+    <string name="lb_playback_controls_rewind_multiplier">Rewind %1$dX</string>
+    <string name="lb_playback_controls_shown">Media controls shown</string>
+    <string name="lb_playback_controls_shuffle_disable">Disable Shuffle</string>
+    <string name="lb_playback_controls_shuffle_enable">Enable Shuffle</string>
+    <string name="lb_playback_controls_skip_next">Skip Next</string>
+    <string name="lb_playback_controls_skip_previous">Skip Previous</string>
+    <string name="lb_playback_controls_thumb_down">Deselect Thumb Down</string>
+    <string name="lb_playback_controls_thumb_down_outline">Select Thumb Down</string>
+    <string name="lb_playback_controls_thumb_up">Deselect Thumb Up</string>
+    <string name="lb_playback_controls_thumb_up_outline">Select Thumb Up</string>
+    <string name="lb_playback_time_separator">/</string>
+    <string name="lb_search_bar_hint">Search</string>
+    <string name="lb_search_bar_hint_speech">Speak to search</string>
+    <string name="lb_search_bar_hint_with_title">Search %1$s</string>
+    <string name="lb_search_bar_hint_with_title_speech">Speak to search %1$s</string>
+    <string name="mobile_welcome_description">Welcome to the Leanback Sample app! Try opening this on an Android TV for a great leanback experience.</string>
+    <string name="mobile_welcome_title">Welcome to the Leanback Sample</string>
+    <string name="movie_details_item">Show full movie details</string>
+    <string name="movix_account_info_title_notv">Movix account information</string>
+    <string name="mr_button_content_description">Cast button</string>
+    <string name="mr_cast_button_connected">Cast button. Connected</string>
+    <string name="mr_cast_button_connecting">Cast button. Connecting</string>
+    <string name="mr_cast_button_disconnected">Cast button. Disconnected</string>
+
+    <string name="mr_chooser_searching">Finding devices</string>
+    <string name="mr_chooser_title">Cast to</string>
+    <string name="mr_controller_album_art">Album art</string>
+    <string name="mr_controller_casting_screen">Casting screen</string>
+    <string name="mr_controller_close_description">Close</string>
+    <string name="mr_controller_collapse_group">Collapse</string>
+    <string name="mr_controller_disconnect">Disconnect</string>
+    <string name="mr_controller_expand_group">Expand</string>
+    <string name="mr_controller_no_info_available">No info available</string>
+    <string name="mr_controller_no_media_selected">No media selected</string>
+    <string name="mr_controller_pause">Pause</string>
+    <string name="mr_controller_play">Play</string>
+    <string name="mr_controller_stop">Stop</string>
+    <string name="mr_controller_stop_casting">Stop casting</string>
+    <string name="mr_controller_volume_slider">Volume slider</string>
+
+    <string name="mr_system_route_name">System</string>
+    <string name="mr_user_route_category_name">Devices</string>
+
+    <string name="orb_search_action">Search Action</string>
+    <string name="password_dialog_new_password_hint">enter password</string>
+    <string name="password_dialog_old_hint">enter current password</string>
+    <string name="password_dialog_title">Enter your password : (1234)</string>
+
+
+    <string name="personal_settings">Personal Settings</string>
+    <string name="playback_sport365_tag">PLAYBACK_SPORT365_TAG</string>
+
+    <string name="playback_torrent_tag">PLAYBACK_TORRENT_TAG</string>
+    <string name="pref_accounts_settings_title">Accounts</string>
+    <string name="pref_iptv_account_settings_title">Iptv Account</string>
+
+
+    <string name="pref_key_login">pref_login</string>
+    <string name="pref_key_recommendations">pref_recommendations</string>
+
+    <string name="pref_parental_control_cat_title">Parental control</string>
+    <string name="pref_sdarot_settings_title">Sdarot Settings</string>
+    <string name="pref_title_iptv_account">Iptv account</string>
+    <string name="pref_title_login">Login</string>
+    <string name="pref_title_login_description">Please enter your username and password\10 1. To purchase subscription go in browser to - www.sdarot.tv/donate\10 2. Registration to Sdarot will let you track seriesepoisodes.\10 3. subscription will let you watch in HD\10 4. and not waiting for 30 seconds before viewing.\10</string>
+    <string name="pref_title_movix_login_description">Please enter your username and password\10 1. To purchase subscription go in browser to - https://movix.live/movix/\10 2. subscription will let you watch in HD\10</string>
+    <string name="pref_title_password">Password</string>
+    <string name="pref_title_recommendations">Recommendations</string>
+    <string name="pref_title_screen_accounts">Accounts</string>
+    <string name="pref_title_screen_signin">Please Login</string>
+    <string name="pref_title_sdarot_login">Sdarot Login</string>
+    <string name="pref_title_settings">App Settings</string>
+    <string name="pref_title_sratim_login_description">Please enter your username and password\10 1. To purchase subscription go in browser to - https://itsmine.space/register/premium/\10 2. subscription will let you watch in HD\10</string>
+    <string name="pref_title_url">host url/full url</string>
+    <string name="pref_title_username">Username</string>
+    <string name="pref_ui_dns">Choose Dns</string>
+    <string name="pref_ui_languages">Select Language</string>
+    <string name="pref_voice_search_languages">Select voice search language</string>
+    <string name="preference_adult_password_title">Adult password</string>
+    <string name="preference_ask_adult_password_channel">ask password each adult ace channel play ?</string>
+
+    <string name="preference_show_adult_channels_ace">Show adult channels</string>
+    <string name="preference_show_details">Show program details ?</string>
+    <string name="preference_show_torrent_sources">Show torrent sources</string>
+    <string name="related_movies">Related Videos</string>
+    <string name="remove_for_favorite">Remove for favorite</string>
+    <string name="sdarot_account_info_title_notv">Sdarot account information</string>
+    <string name="sdarot_mark_ep_as_unwatch_item_btn_text">Mark as unWatched</string>
+    <string name="sdarot_mark_ep_as_watch_item_btn_text">Mark as watched</string>
+    <string name="sdarot_password_hint_notv">Password</string>
+    <string name="sdarot_user_name_hint_notv">User name</string>
+    <string name="sdart_remove_track_series_item_btn_text">Remove from tracking</string>
+    <string name="search_hint">Search for videos</string>
+    <string name="search_label">Leanback API Demo</string>
+    <string name="search_menu_title">Search</string>
+    <string name="settings_description">Leanback API Demo Videos</string>
+    <string name="show_full_guide">Show full guide</string>
+    <string name="show_refreh_guide">Refresh guide</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+    <string name="vertical_grid_title">Vertical Video Grid</string>
+    <string name="watch_1">Watch</string>
+    <string name="watch_2">Now</string>
+    <string name="watch_trailer_1">Watch</string>
+    <string name="watch_trailer_2">Trailer</string>
+
+</resources>

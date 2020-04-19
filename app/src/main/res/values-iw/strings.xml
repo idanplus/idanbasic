@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ISRAEL_LIVE_CHANNELS_CATEGORY">ערוצים חיים מישראל</string>
+    <string name="ISRAEL_RADIO_CHANNELS_CATEGORY">ערוצי רדיו מישראל</string>
+    <string name="CHANNELS_VOD_CATEGORY">VOD ישראלי</string>
+    <string name="CHANNEL_11_TITLE">ערוץ 11</string>
+    <string name="CHANNEL_11_DESC">ערוץ 11 ישיר</string>
+    <string name="CHANNEL_12_TITLE">ערוץ 12</string>
+    <string name="CHANNEL_12_DESC">ערוץ 12 ישיר</string>
+    <string name="CHANNEL_13_TITLE">ערוץ 13</string>
+    <string name="CHANNEL_13_DESC">ערוץ 13 ישיר</string>
+    <string name="CHANNEL_23_TITLE">ערוץ 23</string>
+    <string name="CHANNEL_23_DESC">ערוץ 23 ישיר</string>
+    <string name="CHANNEL_MAKAN_TITLE">ערוץ 33</string>
+    <string name="CHANNEL_MAKAN_DESC">ערוץ 33</string>
+    <string name="CHANNEL_KNESSET_TITLE">ערוץ הכנסת ישיר</string>
+    <string name="CHANNEL_KNESSET_DESC">ערוץ הכנסת ישיר</string>
+
+
+    <string name="app_name"><![CDATA[עידן פלוס פלוס]]></string>
+    <string name="browse_title"><![CDATA[עידן פלוס פלוס]]></string>
+
+    <!-- Error messages -->
+
+    <!-- Global Search -->
+    <!-- The action label for global search_vod -->
+
+    <!-- The label for use as a searchable item -->
+
+    <!-- The hint text that appears in the search_vod box. -->
+
+    <!-- The description that will show up in the search_vod settings for this source.  -->
+
+    <!-- Strings related to guided sequence activity -->
+    <string name="header_icon">Header icon</string>
+
+    <!-- Strings related to onboarding -->
+
+    <string name="playback_tag">PLAYBACK_TAG</string>
+    <string name="BACK_EXIT">לחץ חזור שוב על מנת לצאת</string>
+    <string name="UPDATE_DIALOG_TITLE">נמצא עדכון חדש</string>
+    <string name="UPDATE_DIALOG_DESCRIPTION">עדכון גירסא חדש נמצא מעדכן מגירסה: %1$s לגירסה: %2$s</string>
+    <string name="UPDATE_DIALOG_BTN_UPDATE">עדכון</string>
+    <string name="UPDATE_DIALOG_BTN_CANCEL">לא עכשיו</string>
+    <string name="WHAT_IS_NEW_TXT">
+        <![CDATA[
+<strong>מה חדש</strong><br/>
+  <![CDATA[
+<strong>מה חדש</strong><br/>
+<p>
+חברים יקרים, זהו פרויקט ניסיוני לתקופת הקורונה.<br/>
+
+
+</p>
+        ]]>
+    </string>
+    <string name="BTN_GOTIT">הבנתי!!!</string>
+    <string name="UPDAE_ERROR_MSESSAGE_TITLE">בעיה לא ידוע, אנא נסו שוב בעוד כמה דקות.</string>
+    <string name="HEBREW_DISCLAMIER">Disclaimer / clarification\n
+        Corona time update\n
+        This is an experimental project for educational purposes only and it DOES NOT host or stream any content and is not the initial source of the links.\n
+        Its purpose is to gather available sourcs from the internet and offer an interface that is usable form on non touch screens. All links can be found in other sources.\n
+        Service is completely free, non-profit and not affiliated with any commercial party. This software is free and open to the general public.\n
+        If you have paid money for installation or use of the software, you have been robbed and you are welcome to contact the parties that have engaged you.\n
+        By clicking the \"Got It\" button I confirm that I have read, understood and agree to the above\n
+        For contact please email: idanplusplus@gmail.com\n\n
+    </string>
+    <string name="ENGLISH_DISCLAMIER">כתב ויתור \ הבהרה \n
+        זהו פרויקט ניסיוני לתקופת הקורונה.\n
+        מטרתו היא לאסוף מקורות זמינים מהאינטרנט ולהציע ממשק שמיש עבור מסכים ללא מגע. את כל הקישורים ניתן למצוא במקורות אחרים.\n
+        השירות הוא לגמרי בחינם, ללא כוונת רווח ולא מזוהה עם כל צד מסחרי.\n
+        תוכנה זו מופצת בחינם ופתוחה לכלל הציבור.\n
+        אם שילמת כסף עבור התקנה או שימוש  בתוכנה, שדדו אותך ואתה מוזמן לפנות לגורמים שעשקו אותך.\n
+        בלחיצה על הכפתור הבנתי אני מאשר שקראתי ,הבנתי ואני מסכים לאמור לעיל\n
+        ליצירת קשר יש לפנות לדואל: idanplusplus@gmail\n\n
+    </string>
+
+    <string name="CHECK_UPDATE_MSG">מחפש עדכונים</string>
+    <string name="UPDATE_PROGRESS_MESSAGE">מוריד עדכון …</string>
+
+
+
+    <string name="ABOUT_ITEM">אודות</string>
+
+    <string name="BLACK_CHANNELS_CATEGORY">כרמלה אורחים נוספים הגיעו</string>
+
+    <string name="CEHCK_FOR_UPDATE_TXT">בדוק האם יש עדכון</string>
+    <string name="CHANNELS_ACESTREAM_CATEGORY">ערוצי Ace Stream</string>
+    <string name="CHANNELS_ADULTS_JUST_FOR_HIM_TITLE">רק בשבילו</string>
+    <string name="CHANNELS_ADULTS_LIVE_IPTV_TITLE">ערוצי מבוגרים בלייב</string>
+    <string name="CHANNELS_ADULT_CATEGORY">ערוצי מבוגרים</string>
+    <string name="CHANNELS_AVENGER_CATEGORY">הרחבת הנוקם הראשון: https://www.paypal.me/TheFirstAvenger867</string>
+    <string name="CHANNELS_CATEGORY">ערוצים חיים</string>
+    <string name="CHANNELS_DRAGON_CATEGORY">הרחבת הדרגון לתרומות קישור כאן: https://www.paypal.me/dragonkodi</string>
+    <string name="CHANNELS_HULK_CATEGORY">הרחבת גוסט פרמיום לתרומות קישור כאן: https://www.paypal.me/MoshePeretz</string>
+    <string name="CHANNELS_KODI_CATEGORY">הרחבות קודי</string>
+    <string name="CHANNELS_MOVIES_CATEGORY">סרטים</string>
+    <string name="CHANNELS_MUSIC_CATEGORY">מוסיקה</string>
+    <string name="CHANNELS_PORNO_365_TITLE">365 מבוגרים</string>
+    <string name="CHANNELS_RADIO_CATEGORY">ערוצי רדיו</string>
+
+    <string name="CHANNELS_WORLD_CATEGORY">ערוצים חיים מהעולם</string>
+    <string name="CHANNEL_100HITZ_MUSIC_TITLE">100 להיטים</string>
+    <string name="CHANNEL_10_DESC">ערוץ 10 ישיר</string>
+    <string name="CHANNEL_10_STUDIO">ערוץ 10</string>
+    <string name="CHANNEL_10_TITLE">ערוץ 10</string>
+
+    <string name="CHANNEL_11_STUDIO">ערוץ 11</string>
+
+    <string name="CHANNEL_12_KIDS_TITLE">קשת לילדים</string>
+    <string name="CHANNEL_12_STUDIO">ערוץ 12</string>
+
+    <string name="CHANNEL_13_STUDIO">ערוץ 13</string>
+
+    <string name="CHANNEL_2025_DESC">ערוץ 2025 ישיר</string>
+    <string name="CHANNEL_2025_STUDIO">ערוץ 2025 ישיר</string>
+    <string name="CHANNEL_2025_TITLE">ערוץ 2025 ישיר</string>
+    <string name="CHANNEL_20_DESC">ערוץ 20 ישיר</string>
+    <string name="CHANNEL_20_STUDIO">ערוץ 20 ישיר</string>
+    <string name="CHANNEL_20_TITLE">ערוץ 20 ישיר</string>
+    <string name="CHANNEL_21_DESC">ערוץ הקניות 21 ישיר</string>
+    <string name="CHANNEL_21_STUDIO">ערוץ הקניות 21</string>
+    <string name="CHANNEL_21_TITLE">ערוץ הקניות 21</string>
+
+    <string name="CHANNEL_24_DESC">ערוץ המוסיקה ישיר</string>
+    <string name="CHANNEL_24_STUDIO">ערוץ המוסיקה</string>
+    <string name="CHANNEL_24_TITLE">ערןץ המוסיקה</string>
+    <string name="CHANNEL_26_DESC">ערוץ האח הגדול ישיר</string>
+    <string name="CHANNEL_26_STUDIO">ערוץ האח הגדול ישיר</string>
+    <string name="CHANNEL_26_TITLE">ערוץ האח הגדול ישיר</string>
+    <string name="CHANNEL_5_RADIO_DESC">ערוץ 5 רדיו</string>
+    <string name="CHANNEL_5_RADIO_TITLE">ערוץ 5 רדיו</string>
+    <string name="CHANNEL_9_DESC">ערוץ 9 ישיר</string>
+    <string name="CHANNEL_9_STUDIO">ערוץ 9 ישיר</string>
+    <string name="CHANNEL_9_TITLE">ערוץ 9 ישיר</string>
+    <string name="CHANNEL_AVENGER_KIDS_STUDIO">הנוקם ילדים</string>
+    <string name="CHANNEL_AVENGER_KIDS_TITLE">הנוקם ילדים</string>
+    <string name="CHANNEL_AVENGER_SDAROT_STUDIO">סדרות הנוקם הראשון</string>
+    <string name="CHANNEL_AVENGER_SDAROT_TITLE">הנוקם הראשון</string>
+    <string name="CHANNEL_AVENGER_SERIES_TITLE">הנוקם סדרות</string>
+    <string name="CHANNEL_AVENGER_TITLE">הנוקם סרטים</string>
+    <string name="CHANNEL_DRAGON_SDAROT_STUDIO">סדרות מקור 1</string>
+    <string name="CHANNEL_DRAGON_SDAROT_TITLE">סדרות מקור 1</string>
+    <string name="CHANNEL_ECO_99_MUSIC_TITLE">99 אקו מוסיקה</string>
+    <string name="CHANNEL_FLUXUS_IPTV_STUDIO">Fluxus iptv</string>
+    <string name="CHANNEL_FLUXUS_IPTV_TITLE">Fluxus iptv</string>
+    <string name="CHANNEL_HIDABROT_DESC">ערוץ הידברות ישיר</string>
+    <string name="CHANNEL_HIDABROT_STUDIO">ערוץ הידברות ישיר</string>
+    <string name="CHANNEL_HIDABROT_TITLE">ערוץ הידברות ישיר</string>
+    <string name="CHANNEL_HP_MOVIES_DUB_KIDS_STUDIO">פוטר מודבבים</string>
+    <string name="CHANNEL_HP_MOVIES_DUB_KIDS_TITLE">פוטר מדובבים</string>
+    <string name="CHANNEL_HP_MOVIES_SUBS_STUDIO">מטריקס תרגום מובנה</string>
+    <string name="CHANNEL_HP_MOVIES_SUBS_TITLE">מטריקס תרגום מובנה</string>
+    <string name="CHANNEL_HP_PRIVATE_MOVIES_DUB_KIDS_STUDIO">מטריקס מדובבים</string>
+    <string name="CHANNEL_HP_PRIVATE_MOVIES_DUB_KIDS_TITLE">מטריקס מדובבים</string>
+    <string name="CHANNEL_HP_PRIVATE_MOVIES_ISRAEL_STUDIO">מטריקס ישראלי</string>
+    <string name="CHANNEL_HP_PRIVATE_MOVIES_ISRAEL_TITLE">מטריקס ישראלי</string>
+    <string name="CHANNEL_IDAN_SDAROT_TITLE">עדנה סדרות</string>
+    <string name="CHANNEL_IPTV_DESC">איפי טיוי</string>
+    <string name="CHANNEL_IPTV_TITLE">איפי טיוי</string>
+    <string name="CHANNEL_JANGO_MUSIC_TITLE">מוסיקה גאנגו</string>
+    <string name="CHANNEL_KABALAH_DESC">ערוץ הקבלה ישיר</string>
+    <string name="CHANNEL_KABALAH_STUDIO">ערוץ הקבלה ישיר</string>
+    <string name="CHANNEL_KABALAH_TITLE">ערוץ הקבלה ישיר</string>
+
+    <string name="CHANNEL_KNESSET_STUDIO">ערוץ הכנסת ישיר</string>
+
+
+    <string name="CHANNEL_MAKAN_STUDIO">ערוץ 33</string>
+
+    <string name="CHANNEL_MOVIX_MOVIES_DUB_KIDS_STUDIO">מוביקס מדובבים</string>
+    <string name="CHANNEL_MOVIX_MOVIES_DUB_KIDS_TITLE">מוביקס מדובבים</string>
+    <string name="CHANNEL_MUSIC_CHOISE_MUSIC_TITLE">מיוזיק צויס</string>
+    <string name="CHANNEL_RADIOS_100_MUSIC_TITLE">רדיוס 100 מוסיקה</string>
+    <string name="CHANNEL_SDAROT_365_TITLE">סדרות 365</string>
+    <string name="CHANNEL_SDAROT_KIDS_TITLE">אתר סדרות ילדים</string>
+    <string name="CHANNEL_SDAROT_MOVIX_TITLE">סדרות מוביקס</string>
+    <string name="CHANNEL_SDAROT_TITLE">אתר סדרות</string>
+    <string name="CHANNEL_SWIFT_STREAMZ_STUDIO">Swift Streamz live</string>
+    <string name="CHANNEL_SWIFT_STREAMZ_TITLE">Swift Streamz live</string>
+    <string name="CHANNEL_TAP_TV_STUDIO">Tap tv live</string>
+    <string name="CHANNEL_TAP_TV_TITLE">Tap Tv</string>
+
+    <string name="DNS_PREF_CHANGES">שינוי DNS הושלם , האפלקציה תופעל מחדש מיד</string>
+    <string name="DONATIONS">תרומות</string>
+    <string name="EP_TITLE">פרק</string>
+    <string name="ERROR_365">Error please try again</string>
+    <string name="EXTERNAL_APPLICATIONS_CATEGORY">אפלקציות מותקנות</string>
+    <string name="FAVORITE_CATEGORY">מועדפים</string>
+
+    <string name="ISRAEL_LIVE_IPTV_CHANNELS_CATEGORY">איפי טיוי</string>
+
+    <string name="ISRAEL_VOD_CHANNELS_CATEGORY">VOD ישראלי</string>
+    <string name="KEY_NOT_FOUND_365">Key not found</string>
+    <string name="KIDS_CHANNELS_CATEGORY">ילדים</string>
+    <string name="LIVE_CHANNELS_CATEGORY">ערוצים חיים</string>
+    <string name="NOT_FOUND_CONTENT_365">No Content found site is ok.</string>
+    <string name="NO_CONTENT_DIALOG_MSG">תוכן לא זמין. פנה לספק.</string>
+    <string name="NO_CONTENT_DIALOG_TITLE">אזהרה</string>
+    <string name="NO_MARKET_FOUND_ERROR">לא יכול לפתוח חנות אפלקציות</string>
+    <string name="NO_RESUlT_FOUND">אין תוצאות</string>
+    <string name="NO_UPDATE_FOUND">לא נמצא עדכון גירסה</string>
+    <string name="REALDEBRID_POPUP_MSG_1">בבקשה הכנס ללינק שמתחת והכנס את הקוד</string>
+    <string name="SDAROT_MOST_RATINGS_CAT">הכי מדורגות</string>
+    <string name="SDAROT_MOST_VIEWS_CAT">הכי נצפות</string>
+    <string name="SDAROT_MOST_VIEWS_EP_CAT">פרקים הכי נצפים</string>
+    <string name="SDAROT_NEW_EP_CAT">פרקים חדשים</string>
+    <string name="SDAROT_NEW_SERIES_CAT">סדרות חדשות</string>
+    <string name="SDAROT_SERVER_LOADS_CAT">עומס שרתים</string>
+    <string name="SDAROT_TOP_RATED_EP_CAT">פרקים הכי מדורגים</string>
+    <string name="SDAROT_VOD_EPOISODES_OF">פרקים מתוך</string>
+    <string name="SDAROT_VOD_TARCKING_CAT">סדרות במעקב</string>
+    <string name="SDAROT_VOD_YOU_WATCHED">צפית ב</string>
+    <string name="SDART_POPUP_MESSAGE_2">אנא המתן</string>
+    <string name="SDART_POPUP_MESSAGE_3">שניות</string>
+    <string name="SDART_POPUP_MESSAGE_TITLE">אנא המתן 30 שניות, לאיכות צפיה ב HD או ללא המתנה יש לרכוש מנוי</string>
+    <string name="SDART_POPUP_MSG_1">לרכישת מנוי יש לפנות בדפדפן ל - www.sdarot.tv/donate</string>
+    <string name="SEASON_TITLE">עונה</string>
+    <string name="SERIES_CHANNELS_CATEGORY">סדרות</string>
+    <string name="SETTINGS_EMAIL_TITlE">דואל</string>
+    <string name="SETTINGS_ITEM">הגדרות</string>
+    <string name="SETTINGS_TELEGRAM_TITLE">טלגרם</string>
+    <string name="SETTINGS_WEBSITE_TITLE">אתר</string>
+    <string name="SOURCE_NOT_FOUND_MESSAGE">לא נמצאו מקורות לניגון</string>
+    <string name="SOURCE_NOT_FOUND_TITLE">לא נמצאו מקורות</string>
+    <string name="SPORTS_CHANNELS_CATEGORY">SPORTS</string>
+    <string name="SPORT_365_ALERT_MSG">אריח ספורט 365 יכול לעבוד ויכול שלא לעבוד בגלל בעיות באתר\10 השידור נתקע אחרי 5 דקות האפלקציה תחדש אותו אוטומטי אתם תחוו תקיעה קטנה</string>
+    <string name="SPORT_365_TITLE">אתר ספורט 365</string>
+    <string name="TELEGRAM_ACCOUNT_TITLE">Please insert your telegram account</string>
+    <string name="TELEGRAM_ENTER_CODE_TITLE">Enter telegram code</string>
+    <string name="TELEGRAM_ENTER_PHONE_NUMBER">לדוגמא: 972541234567</string>
+    <string name="TELEGRAM_ENTER_TELEGRAM_CODE">1. בדוק את אפלקציית הטלגרם\10 2. הכנס את הקוד שקיבלת האפלקציית הטלגרם\10 3. לחץ על המשך לשלב הבא</string>
+    <string name="TELEGRAM_ENTER_TWO_WAY_TITLE">הכנס קוד בשני שלבים</string>
+    <string name="TELEGRAM_LOGIN_DESC">1. press logout button.</string>
+    <string name="TELEGRAM_LOGIN_SUCCESS">התחברת בהצלחה</string>
+    <string name="TELEGRAM_LOGOUT_BUTTON">יציאה מהחשבון</string>
+    <string name="TELEGRAM_LOGOUT_SUCCESS">התנתקת בהצלחה</string>
+    <string name="TELEGRAM_PHONE_DESC">1. הכנס מספר טלפון כמו שמופיע באפלקציית הטלגרם\10 2. לחץ על המשך לשלב הבא</string>
+    <string name="TELEGRAM_TWO_WAY_VER_CODE_DESC">1. הכנס את קוד האימות בשני שלבים \10 2. לחץ על המשך לשלב הבא</string>
+    <string name="TELEMEDIA_CHANNEL_CATEGORY">טלמדיה</string>
+    <string name="TELEMEDIA_DUBBED_TITLE">טלמדיה מדובבים</string>
+    <string name="TELEMEDIA_ISRAEL_TITLE">טלמדיה ישראלי</string>
+    <string name="TELEMEDIA_NATURE_TITLE">טלמדיה טבע</string>
+    <string name="TELEMEDIA_SUBBED_TITLE">טלמדיה סרטים</string>
+    <string name="TMDB_MOVIES_MOST_POPULAR_CAT">הכי פופולארי</string>
+    <string name="TMDB_MOVIES_TOP_RATED_CAT">הכי מדורגים</string>
+    <string name="TMDB_NO_TRAILER_FOUND">לא נמצא קדימון</string>
+    <string name="TMDB_SDAROT_MOST_POPOLAR_CAT">הכי פופולארי</string>
+    <string name="TMDB_SDAROT_TOP_RATED_CAT">הכי מדורגים</string>
+    <string name="TORRENT_CONNECTING_TITLE">מתחבר …</string>
+    <string name="TORRENT_LOADING_TITLE">טוען …</string>
+    <string name="TORRENT_SEEDS_TITLE">זורעים</string>
+
+    <string name="VERSION_ITEM">גירסה:</string>
+    <string name="VOD_KIDS_SOURCE_WALLA">וואלה ילדים</string>
+    <string name="VOD_KIDS_SOURCE_WALLA_DESC">וואלה ילדים</string>
+    <string name="VOD_MOVIES_SOURCE_2">סרטים 2</string>
+    <string name="VOD_MOVIES_SOURCE_2_DESC">מקור סרטים 2</string>
+    <string name="VOD_MOVIES_SOURCE_3">סרטים 3</string>
+    <string name="VOD_MOVIES_SOURCE_3_DESC">מקור סרטים 3</string>
+    <string name="VOD_MOVIES_SOURCE_AVENGER">הנוקם הראשון</string>
+    <string name="VOD_MOVIES_SOURCE_AVENGER_DESC">סרטים הנוקם הראשון</string>
+    <string name="VOD_MOVIES_SOURCE_GHOST">גוסט המלך</string>
+    <string name="VOD_MOVIES_SOURCE_GHOST_DESC">גוסט המלך</string>
+    <string name="VOD_MOVIES_SOURCE_IDAN">עדנה סרטים</string>
+    <string name="VOD_MOVIES_SOURCE_IDAN_DESC">עדנה סרטים</string>
+    <string name="VOD_MOVIES_SOURCE_MOVIES365">365 סרטים</string>
+    <string name="VOD_MOVIES_SOURCE_MOVIES365_DESC">365 סרטים</string>
+    <string name="VOD_MOVIES_SOURCE_MOVIX">מוביקס סרטים</string>
+    <string name="VOD_MOVIES_SOURCE_MOVIX_DESC">מוביקס סרטים</string>
+    <string name="VOD_MOVIES_SOURCE_MOVIX_DESC_ISRAELI">מוביקס סרטים ישראלים</string>
+    <string name="VOD_MOVIES_SOURCE_MOVIX_ISRAELI">מוביקס סרטים ישראלים</string>
+    <string name="VOD_MOVIES_SOURCE_SRATIMCO">אתר סרטים</string>
+    <string name="VOD_MOVIES_SOURCE_SRATIMCO_DESC">אתר סרטים</string>
+    <string name="VOD_MOVIES_SOURCE_WALLA">וואלה סרטים</string>
+    <string name="VOD_MOVIES_SOURCE_WALLA_DESC">ואללה סרטים</string>
+    <string name="VOD_SDAROT_SOURCE_WALLA">וואלה סדרות</string>
+    <string name="VOD_SDAROT_SOURCE_WALLA_DESC">וואלה סדרות</string>
+    <string name="VOD_SOURCE_KODI_AVENGER">הרחבת הנוקם הראשון</string>
+    <string name="VOD_SOURCE_KODI_AVENGER_DESC">הרחבת הנוקם הראשון</string>
+    <string name="VOD_SOURCE_KODI_CHICCO">הרחבת ציקו</string>
+    <string name="VOD_SOURCE_KODI_CHICCO_DESC">הרחבת ציקו</string>
+    <string name="VOD_SOURCE_KODI_DRAGON">הרחבת הדרגון הראשון</string>
+    <string name="VOD_SOURCE_KODI_DRAGON_DESC">הרחבת הדרגון הראשון</string>
+    <string name="VOD_SOURCE_KODI_GHOST_MUSIC">הרחבת גוסט מוסיקה</string>
+    <string name="VOD_SOURCE_KODI_GHOST_MUSIC_DESC">הרחבת גוסט מוסיקה</string>
+    <string name="VOD_SOURCE_KODI_GHOST_PREM">הרחבת גוסט פרימיום</string>
+    <string name="VOD_SOURCE_KODI_GHOST_PREM_DESC">הרחבת גוסט פרימיום</string>
+    <string name="VOD_SOURCE_KODI_GHOST_SERIES">הרחבת גוסט סדרות רשת</string>
+    <string name="VOD_SOURCE_KODI_GHOST_SERIES_DESC">הרחבת גוסט סדרות רשת</string>
+    <string name="VOD_SOURCE_KODI_HULK_KIDS">הרחבת עולם הילדים</string>
+    <string name="VOD_SOURCE_KODI_HULK_KIDS_DESC">הרחבת עולם הילדים</string>
+    <string name="VOD_SOURCE_KODI_KILLER">הרחבת קילר</string>
+    <string name="VOD_SOURCE_KODI_KILLER_DESC">הרחבת קילר</string>
+    <string name="VOD_SOURCE_KODI_TIGER">הרחבת טייגר</string>
+    <string name="VOD_SOURCE_KODI_TIGER_DESC">הרחבת טייגר</string>
+    <string name="WHAT_IS_NEW">מה חדש</string>
+    <string name="abc_action_bar_home_description">נווט לדף הבית</string>
+    <string name="abc_action_bar_up_description">נווט למעלה</string>
+    <string name="abc_action_menu_overflow_description">עוד אפשרויות</string>
+    <string name="abc_action_mode_done">בוצע</string>
+    <string name="abc_activity_chooser_view_see_all">ראה הכל</string>
+    <string name="abc_activitychooserview_choose_application">בחר אפליקציה</string>
+    <string name="abc_capital_off">כבוי</string>
+    <string name="abc_capital_on">פועל</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+‎</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">מקש רווח</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">תפריט+</string>
+    <string name="abc_search_hint">חיפוש…</string>
+    <string name="abc_searchview_description_clear">מחק שאילתה</string>
+    <string name="abc_searchview_description_query">שאילתת חיפוש</string>
+    <string name="abc_searchview_description_search">חיפוש</string>
+    <string name="abc_searchview_description_submit">שלח שאילתה</string>
+    <string name="abc_searchview_description_voice">חיפוש קולי</string>
+    <string name="abc_shareactionprovider_share_with">שתף עם</string>
+    <string name="abc_shareactionprovider_share_with_application">שתף עם %s</string>
+    <string name="abc_toolbar_collapse_description">כווץ</string>
+    <string name="add_to_favorite">הוסף למועדפים</string>
+
+    <string name="btn_cancel">ביטול</string>
+    <string name="btn_ok">אישור</string>
+    <string name="btn_reset">איפוס</string>
+    <string name="buy_1">דרג</string>
+    <string name="buy_2">סדרה</string>
+    <string name="cast_ad_label">מודעה</string>
+    <string name="cast_casting_to_device">‏מעביר אל %1$s</string>
+    <string name="cast_closed_captions">כתוביות</string>
+    <string name="cast_closed_captions_unavailable">הכתוביות אינן זמינות</string>
+    <string name="cast_connecting_to_device">מתחבר אל %1$s</string>
+    <string name="cast_disconnect">נתק</string>
+    <string name="cast_expanded_controller_ad_image_description">‏התמונה מוצגת בזמן שמקלט Cast מפעיל מודעה</string>
+    <string name="cast_expanded_controller_ad_in_progress">מודעה בתהליך...</string>
+    <string name="cast_expanded_controller_background_image">עטיפת אלבום</string>
+    <string name="cast_expanded_controller_live_head_description">המיקום הנוכחי בראש הסטרימינג בשידור חי</string>
+    <string name="cast_expanded_controller_live_stream_indicator">זרם בשידור חי</string>
+    <string name="cast_expanded_controller_loading">טוען…</string>
+    <string name="cast_expanded_controller_skip_ad_label">דילוג על המודעה</string>
+    <string name="cast_expanded_controller_skip_ad_text">‏ניתן יהיה לדלג על המודעה בעוד %1$d…</string>
+    <string name="cast_forward">העבר</string>
+    <string name="cast_forward_10">העבר עשר שניות קדימה</string>
+    <string name="cast_forward_30">העבר 30 שניות קדימה</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
+    <string name="cast_label_string">Cast</string>
+    <string name="cast_live_label">שידור חי</string>
+    <string name="cast_mute">השתק</string>
+    <string name="cast_notification_connected_message">מחובר אל %1$s</string>
+    <string name="cast_notification_connecting_message">מתחבר אל %1$s</string>
+    <string name="cast_notification_default_channel_name">Cast</string>
+    <string name="cast_notification_disconnect">נתק</string>
+    <string name="cast_pause">השהה</string>
+    <string name="cast_play">הפעל</string>
+    <string name="cast_rewind">העבר לאחור</string>
+    <string name="cast_rewind_10">העבר עשר שניות לאחור</string>
+    <string name="cast_rewind_30">העבר 30 שניות לאחור</string>
+    <string name="cast_seek_bar">פקד חיפוש הפעלה</string>
+    <string name="cast_skip_next">אפשר לדלג אל הפריט הבא</string>
+    <string name="cast_skip_prev">אפשר לדלג לפריט הקודם</string>
+    <string name="cast_stop">עצור</string>
+    <string name="cast_stop_live_stream">עצור סטרימינג בשידור חי</string>
+    <string name="cast_tracks_chooser_dialog_audio">אודיו</string>
+    <string name="cast_tracks_chooser_dialog_cancel">ביטול</string>
+    <string name="cast_tracks_chooser_dialog_closed_captions">כתוביות</string>
+    <string name="cast_tracks_chooser_dialog_default_track_name">רצועה %1$d</string>
+    <string name="cast_tracks_chooser_dialog_none">אף אחת</string>
+    <string name="cast_tracks_chooser_dialog_ok">אישור</string>
+    <string name="cast_tracks_chooser_dialog_subtitles">כתוביות</string>
+    <string name="cast_unmute">בטל השתקה</string>
+    <string name="common_google_play_services_enable_button">הפעל</string>
+    <string name="common_google_play_services_enable_text">‏האפליקציה %1$s לא תפעל אם לא תפעיל את שירותי Google Play.</string>
+    <string name="common_google_play_services_enable_title">‏הפעל את שירותי Google Play</string>
+    <string name="common_google_play_services_install_button">התקן</string>
+    <string name="common_google_play_services_install_text">‏האפליקציה %1$s לא תפעל ללא שירותי Google Play, שאינם מותקנים במכשיר.</string>
+    <string name="common_google_play_services_install_title">‏קבל את שירותי Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">‏זמינות של שירותי Google Play</string>
+    <string name="common_google_play_services_notification_ticker">‏שגיאה בשירותי Google Play</string>
+    <string name="common_google_play_services_unknown_issue">‏%1$s נתקלה בבעיה בשירותי Google Play. נסה שוב.</string>
+    <string name="common_google_play_services_unsupported_text">‏%1$s לא תפעל ללא שירותי Google Play, שאינם נתמכים במכשיר שלך.</string>
+    <string name="common_google_play_services_update_button">עדכן</string>
+    <string name="common_google_play_services_update_text">‏%1$s לא יפעל אם לא תעדכן את שירותי Google Play.</string>
+    <string name="common_google_play_services_update_title">‏עדכון שירותי Google Play</string>
+    <string name="common_google_play_services_updating_text">‏האפליקציה %1$s לא תפעל ללא שירותי Google Play, שמתעדכנים כרגע.</string>
+    <string name="common_google_play_services_wear_update_text">‏דרושה גרסה חדשה של שירותי Google Play. הגרסה תתעדכן בעצמה תוך זמן קצר.</string>
+    <string name="common_open_on_phone">פתח בטלפון</string>
+    <string name="common_signin_button_text">כניסה</string>
+    <string name="common_signin_button_text_long">‏היכנס באמצעות Google</string>
+    <string name="dialog_ace_not_installed_message">Please install \"Ace engine\" app from Google Play</string>
+    <string name="dialog_ace_not_installed_title">Ace engine not installed</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="dialog_button_install">Install</string>
+    <string name="dialog_core_not_installed_message">Please install \"IPTV Core\" app from Google Play</string>
+    <string name="dialog_core_not_installed_title">IPTV Core not installed</string>
+    <string name="dialog_mx_not_installed_message">Please install \"Mx player\" app from Google Play</string>
+    <string name="dialog_mx_not_installed_title">Mx player not installed</string>
+    <string name="dialog_vlc_not_installed_message">Please install \"Vlc player\" app from Google Play</string>
+    <string name="dialog_vlc_not_installed_title">Vlc player not installed</string>
+    <string name="dismiss_error">Dismiss</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="exo_controls_fastforward_description">הרצה קדימה</string>
+    <string name="exo_controls_fullscreen_description">מצב מסך מלא</string>
+    <string name="exo_controls_hide">הסתרת פקדי הנגן</string>
+    <string name="exo_controls_next_description">הרצועה הבאה</string>
+    <string name="exo_controls_pause_description">השהיה</string>
+    <string name="exo_controls_play_description">הפעלה</string>
+    <string name="exo_controls_previous_description">הרצועה הקודמת</string>
+    <string name="exo_controls_repeat_all_description">חזור על הכול</string>
+    <string name="exo_controls_repeat_off_description">אל תחזור על אף פריט</string>
+    <string name="exo_controls_repeat_one_description">חזור על פריט אחד</string>
+    <string name="exo_controls_rewind_description">הרצה אחורה</string>
+    <string name="exo_controls_show">הצגת פקדי הנגן</string>
+    <string name="exo_controls_shuffle_off_description">ההשמעה האקראית מושבתת</string>
+    <string name="exo_controls_shuffle_on_description">ההשמעה האקראית מופעלת</string>
+    <string name="exo_controls_stop_description">הפסקה</string>
+    <string name="exo_controls_vr_description">מצב VR</string>
+    <string name="exo_download_completed">ההורדה הושלמה</string>
+    <string name="exo_download_description">הורדה</string>
+    <string name="exo_download_downloading">ההורדה מתבצעת</string>
+    <string name="exo_download_failed">ההורדה לא הושלמה</string>
+    <string name="exo_download_notification_channel_name">הורדות</string>
+    <string name="exo_download_removing">מסיר הורדות</string>
+    <string name="exo_item_list">%1$s‏, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f מגה סיביות לשנייה</string>
+    <string name="exo_track_mono">מונו</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">חלופי</string>
+    <string name="exo_track_role_closed_captions">כתוביות</string>
+    <string name="exo_track_role_commentary">פרשנות</string>
+    <string name="exo_track_role_supplementary">משלים</string>
+    <string name="exo_track_selection_auto">אוטומטי</string>
+    <string name="exo_track_selection_none">ללא</string>
+    <string name="exo_track_selection_title_audio">אודיו</string>
+    <string name="exo_track_selection_title_text">טקסט</string>
+    <string name="exo_track_selection_title_video">סרטון</string>
+    <string name="exo_track_stereo">סטריאו</string>
+    <string name="exo_track_surround">סראונד</string>
+    <string name="exo_track_surround_5_point_1">סראונד 5.1</string>
+    <string name="exo_track_surround_7_point_1">סראונד 7.1</string>
+    <string name="exo_track_unknown">לא ידוע</string>
+    <string name="expand_button_title">מתקדם</string>
+    <string name="fav_move_left">הזז שמאלה</string>
+    <string name="fav_move_right">הזז ימינה</string>
+    <string name="grid_view">Vertical Grid View</string>
+    <string name="guidedstep_assign_device">חבר מכשיר</string>
+    <string name="guidedstep_continue">שמור</string>
+    <string name="guidedstep_revoke_device">נתק מכשיר</string>
+
+    <string name="iptv_account_info_title_notv">פרטי חשבון אייפי טיוי</string>
+    <string name="iptv_password_hint_notv">סיסמה</string>
+    <string name="iptv_url_hint_notv">כתובת ספק/כתובת לקובץ M3U</string>
+    <string name="iptv_user_name_hint_notv">שם משתמש</string>
+    <string name="lb_control_display_fast_forward_multiplier">‎%1$dX‎‎</string>
+    <string name="lb_control_display_rewind_multiplier">‎%1$dX‎‎</string>
+    <string name="lb_guidedaction_continue_title">המשך</string>
+    <string name="lb_guidedaction_finish_title">סיום</string>
+    <string name="lb_media_player_error">‏קוד שגיאה %1$d‏ של MediaPlayer ועוד %2$d</string>
+    <string name="lb_navigation_menu_contentDescription">תפריט ניווט</string>
+    <string name="lb_onboarding_accessibility_next">הבא</string>
+    <string name="lb_onboarding_get_started">קדימה, לעבודה</string>
+    <string name="lb_playback_controls_closed_captioning_disable">השבתת כתוביות</string>
+    <string name="lb_playback_controls_closed_captioning_enable">הפעלת כתוביות</string>
+    <string name="lb_playback_controls_fast_forward">הרצה קדימה</string>
+    <string name="lb_playback_controls_fast_forward_multiplier">‏הרצה קדימה של %1$dX</string>
+    <string name="lb_playback_controls_hidden">‏פקדי המדיה מוסתרים. יש להקיש על ה-d-pad כדי להציג אותם</string>
+    <string name="lb_playback_controls_high_quality_disable">השבתת איכות גבוהה</string>
+    <string name="lb_playback_controls_high_quality_enable">הפעלת איכות גבוהה</string>
+    <string name="lb_playback_controls_more_actions">פעולות נוספות</string>
+    <string name="lb_playback_controls_pause">השהיה</string>
+    <string name="lb_playback_controls_picture_in_picture">מעבר למצב תמונה בתוך תמונה</string>
+    <string name="lb_playback_controls_play">הפעלה</string>
+    <string name="lb_playback_controls_repeat_all">חזור על הכול</string>
+    <string name="lb_playback_controls_repeat_none">אל תחזור על כלום</string>
+    <string name="lb_playback_controls_repeat_one">חזור על פריט אחד</string>
+    <string name="lb_playback_controls_rewind">הרצה אחורה</string>
+    <string name="lb_playback_controls_rewind_multiplier">‏הרצה אחורה של %1$dX</string>
+    <string name="lb_playback_controls_shown">פקדי המדיה מוצגים</string>
+    <string name="lb_playback_controls_shuffle_disable">השבתת ערבוב</string>
+    <string name="lb_playback_controls_shuffle_enable">הפעלת ערבוב</string>
+    <string name="lb_playback_controls_skip_next">דילוג אל הפריט הבא</string>
+    <string name="lb_playback_controls_skip_previous">דילוג אל הפריט הקודם</string>
+    <string name="lb_playback_controls_thumb_down">ביטול בחירה בסימון \'לא אהבתי\'</string>
+    <string name="lb_playback_controls_thumb_down_outline">בחירה בסימון \'לא אהבתי\'</string>
+    <string name="lb_playback_controls_thumb_up">ביטול בחירה בסימון \'אהבתי\'</string>
+    <string name="lb_playback_controls_thumb_up_outline">בחירה בסימון \'אהבתי\'</string>
+    <string name="lb_playback_time_separator">/</string>
+    <string name="lb_search_bar_hint">חיפוש</string>
+    <string name="lb_search_bar_hint_speech">יש לדבר בקול כדי לחפש</string>
+    <string name="lb_search_bar_hint_with_title">חיפוש של %1$s</string>
+    <string name="lb_search_bar_hint_with_title_speech">יש לדבר כדי לחפש את %1$s</string>
+    <string name="mobile_welcome_description">Welcome to the Leanback Sample app! Try opening this on an Android TV for a great leanback experience.</string>
+    <string name="mobile_welcome_title">Welcome to the Leanback Sample</string>
+    <string name="movie_details_item">הצג תקציר מלא של הסרט</string>
+    <string name="movix_account_info_title_notv">פרטי חשבון אתר מוביקס</string>
+    <string name="mr_button_content_description">‏לחצן הפעלת Cast</string>
+    <string name="mr_cast_button_connected">‏לחצן הפעלת Cast. מחובר</string>
+    <string name="mr_cast_button_connecting">‏לחצן הפעלת Cast. מתחבר</string>
+    <string name="mr_cast_button_disconnected">‏לחצן הפעלת Cast. מנותק</string>
+    <string name="mr_chooser_searching">מתבצע חיפוש מכשירים</string>
+    <string name="mr_chooser_title">העברה אל</string>
+    <string name="mr_controller_album_art">עטיפת אלבום</string>
+    <string name="mr_controller_casting_screen">העברת מסך מתבצעת</string>
+    <string name="mr_controller_close_description">סגירה</string>
+    <string name="mr_controller_collapse_group">כיווץ</string>
+    <string name="mr_controller_disconnect">ניתוק</string>
+    <string name="mr_controller_expand_group">הרחבה</string>
+    <string name="mr_controller_no_info_available">אין מידע זמין</string>
+    <string name="mr_controller_no_media_selected">לא נבחרה מדיה</string>
+    <string name="mr_controller_pause">השהיה</string>
+    <string name="mr_controller_play">הפעלה</string>
+    <string name="mr_controller_stop">הפסקה</string>
+    <string name="mr_controller_stop_casting">עצירת העברה</string>
+    <string name="mr_controller_volume_slider">מחוון עוצמה</string>
+    <string name="mr_system_route_name">מערכת</string>
+    <string name="mr_user_route_category_name">מכשירים</string>
+    <string name="orb_search_action">פעולת חיפוש</string>
+    <string name="password_dialog_new_password_hint">הכנס סיסמה</string>
+    <string name="password_dialog_old_hint">הכנס סיסמה נוכחית</string>
+    <string name="password_dialog_title">(1234) הכנס את הסיסמה :</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="playback_sport365_tag">PLAYBACK_SPORT365_TAG</string>
+
+    <string name="playback_torrent_tag">PLAYBACK_TORRENT_TAG</string>
+    <string name="pref_accounts_settings_title">חשבונות</string>
+    <string name="pref_iptv_account_settings_title">Iptv Account</string>
+    <string name="pref_key_login">pref_login</string>
+    <string name="pref_key_recommendations">pref_recommendations</string>
+    <string name="pref_parental_control_cat_title">בקרת הורים</string>
+    <string name="pref_sdarot_settings_title">הגדרות אתר סדרות</string>
+    <string name="pref_title_iptv_account">Iptv account</string>
+    <string name="pref_title_login">Login</string>
+    <string name="pref_title_login_description">בבקשה הכנס שם משתמש וסיסמה\10 1. לרכישת מנוי יש לפנות בדפדפן ל - www.sdarto.tv/donate\10 2. רישום לאתר סדרות נותן לך מעקב אחרי סדרותפרקים\10 3. רכישת מנוי מאפשרת צפיה באיכות HD \10 4. וגם אין צורך בהמתנה של 30 שניות לפני הצפיה\10</string>
+    <string name="pref_title_movix_login_description">בבקשה הכנס שם משתמש וסיסמה\10 1. לרכישת מנוי יש לפנות בדפדפן ל - https://movix.live/movix/\10 2. רכישת מנוי מאפשרת צפיה באיכות HD \10</string>
+    <string name="pref_title_password">סיסמה</string>
+    <string name="pref_title_recommendations">Recommendations</string>
+    <string name="pref_title_screen_accounts">חשבונות</string>
+    <string name="pref_title_screen_signin">בבקשה להכנס</string>
+    <string name="pref_title_sdarot_login">מנוי לסדרות</string>
+    <string name="pref_title_settings">App Settings</string>
+    <string name="pref_title_sratim_login_description">בבקשה הכנס שם משתמש וסיסמה\10 1. לרכישת מנוי יש לפנות בדפדפן ל - https://itsmine.space/register/premium/\10 2. רכישת מנוי מאפשרת צפיה באיכות HD \10</string>
+    <string name="pref_title_url">כתובת אתרכתובת קובץ</string>
+    <string name="pref_title_username">שם משתמש</string>
+    <string name="pref_ui_dns">בחירת DNS</string>
+    <string name="pref_ui_languages">בחר שפה</string>
+    <string name="pref_voice_search_languages">בחר שפה לחיפוש קולי</string>
+    <string name="preference_adult_password_title">סיסמת מבוגרים</string>
+    <string name="preference_ask_adult_password_channel">בקש סיסמה בהפעלת ערוץ מבוגרים ?</string>
+    <string name="preference_show_adult_channels_ace">הצגת ערוצי מבוגרים</string>
+    <string name="preference_show_details">הצגת תקצירים ?</string>
+    <string name="preference_show_torrent_sources">הצג מקורות טורנטים</string>
+    <string name="related_movies">Related Videos</string>
+    <string name="remove_for_favorite">הסרה ממועדפים</string>
+    <string name="sdarot_account_info_title_notv">פרטי חשבון אתר סדרות</string>
+    <string name="sdarot_mark_ep_as_unwatch_item_btn_text">סמן כלא נצפה</string>
+    <string name="sdarot_mark_ep_as_watch_item_btn_text">סמן כנצפה</string>
+    <string name="sdarot_password_hint_notv">סיסמה</string>
+    <string name="sdarot_user_name_hint_notv">שם משתמש</string>
+    <string name="sdart_remove_track_series_item_btn_text">הסר מסדרות במעקב</string>
+    <string name="search_hint">Search for videos</string>
+    <string name="search_label">Leanback API Demo</string>
+    <string name="search_menu_title">חיפוש</string>
+    <string name="settings_description">Leanback API Demo Videos</string>
+    <string name="show_full_guide">הצג לוח שידורים</string>
+    <string name="show_refreh_guide">רענן לוח שידורים</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">כבוי</string>
+    <string name="v7_preference_on">מופעל</string>
+    <string name="vertical_grid_title">Vertical Video Grid</string>
+    <string name="watch_1">צפה</string>
+    <string name="watch_2">עכשיו</string>
+    <string name="watch_trailer_1">הצג</string>
+    <string name="watch_trailer_2">קדימון</string>
+
+</resources>
