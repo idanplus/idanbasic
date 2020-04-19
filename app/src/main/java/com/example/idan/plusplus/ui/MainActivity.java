@@ -51,6 +51,9 @@ public class MainActivity extends LeanbackActivity {
         } else {
             WebapiSingleton.isTv = false;
         }
+
+        Toast.makeText(getApplicationContext(),"Hello , Welcome to Idan++ Basic",Toast.LENGTH_SHORT).show();
+
         File outputDir = Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOWNLOADS);
         File file1 = new File(outputDir,"idanplusplus.apk");
         if (file1.exists())
