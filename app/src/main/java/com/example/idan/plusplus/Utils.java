@@ -288,7 +288,7 @@ public class Utils {
 
             case Constants.Channels.Israel.Live.CHANNEL_20:
                 getChannell20(null).getLiveChannell20(activity,main_fragment,gridItem, gridItem1 -> openPlayBackAcitivty(activity, gridItem1,true));
-                break;
+                break;  //
             case Constants.Channels.Israel.Live.CHANNEL_SHOPPING_21:
                 getChannell21(null).getLiveChannell21(activity,main_fragment,gridItem, gridItem1 -> openPlayBackAcitivty(activity, gridItem1,true));
                 break;
