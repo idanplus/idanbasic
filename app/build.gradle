@@ -7,8 +7,8 @@ android {
         applicationId "com.example.idan.plusplus"
         minSdkVersion 21
         targetSdkVersion 27
-        versionCode 2000 //8 in server latest need to make 9
-        versionName "2.0.0.0" //8
+        versionCode 4000 //8 in server latest need to make 9
+        versionName "4.0.0.1" //8
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
