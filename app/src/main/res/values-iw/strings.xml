@@ -57,14 +57,17 @@
     <string name="BTN_GOTIT">הבנתי!!!</string>
     <string name="UPDAE_ERROR_MSESSAGE_TITLE">בעיה לא ידוע, אנא נסו שוב בעוד כמה דקות.</string>
     <string name="HEBREW_DISCLAMIER">Disclaimer / clarification\n
-        Corona time update\n
+        <br>Corona time update\n</br>                                                                              .
         This is an experimental project for educational purposes only and it DOES NOT host or stream any content and is not the initial source of the links.\n
         Its purpose is to gather available sourcs from the internet and offer an interface that is usable form on non touch screens. All links can be found in other sources.\n
         Service is completely free, non-profit and not affiliated with any commercial party. This software is free and open to the general public.\n
         By clicking the \"Got It\" button I confirm that I have read, understood and agree to the above\n
         For contact please email: idanplusplus@gmail.com\n\n
     </string>
-    <string name="ENGLISH_DISCLAMIER"><b>כתב ויתור \ הבהרה </b>
+    <string name="ENGLISH_DISCLAMIER">
+        \n
+        כתב ויתור \ הבהרה
+        \n
         זהו פרויקט ניסיוני לתקופת הקורונה.\n
         מטרתו היא לאסוף מקורות זמינים מהאינטרנט ולהציע ממשק שמיש עבור מסכים ללא מגע. את כל הקישורים ניתן למצוא במקורות אחרים.\n
         השירות הוא לגמרי בחינם, ללא כוונת רווח ולא מזוהה עם כל צד מסחרי.\n
