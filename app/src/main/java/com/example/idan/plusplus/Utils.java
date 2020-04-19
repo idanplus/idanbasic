@@ -285,9 +285,7 @@ public class Utils {
             case Constants.Channels.Israel.Live.CHANNEL_5_RADIO:
                 getChannell5(null).getLiveChannell5(activity,main_fragment,gridItem, gridItem1 -> openPlayBackAcitivty(activity, gridItem1,true));
                 break;
-            case Constants.Channels.Israel.Live.CHANNEL_6:
-                getChannell6(null).getLiveChannell6(activity,main_fragment,gridItem, gridItem1 -> openPlayBackAcitivty(activity, gridItem1,true));
-                break;
+
             case Constants.Channels.Israel.Live.CHANNEL_20:
                 getChannell20(null).getLiveChannell20(activity,main_fragment,gridItem, gridItem1 -> openPlayBackAcitivty(activity, gridItem1,true));
                 break;
