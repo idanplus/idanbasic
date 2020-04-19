@@ -35,11 +35,43 @@ import androidx.leanback.widget.ListRow;
 import com.example.idan.plusplus.Classes.Constants;
 import com.example.idan.plusplus.V2.Events.OnAsyncTaskLoadCompletes;
 import com.example.idan.plusplus.V2.Services.Retrofit2Services.BaseAbstractService;
+
+
 import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.Channel11Service.Channell11;
 import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.Channell12Service.Channell12;
 import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.Channell13Service.Channell13;
-import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.Channell13Service.Channell13;
+
+import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.Channell5Service.Channell5;
+
+
+import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.Channell20Service.Channell20;
+import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.Channell21Service.Channell21;
+import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.Channell23Service.Channell23;
+import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.Channell24Service.Channell24;
+import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.Channell66Service.Channell66;
+
+import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.Channell97Service.Channell97;
+
 import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.Channell99KneesetService.Channell99;
+import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.Channell9Service.Channell9;
+
+import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.ChannellMovixService.ChannellMovix;
+import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.ChannellMovixActionService.ChannellMovixAction;
+import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.ChannellMovixAnimationService.ChannellMovixAnimation;
+import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.ChannellMovixComedyService.ChannellMovixComedy;
+import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.ChannellMovixCrimeService.ChannellMovixCrime;
+import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.ChannellMovixDocumentaryService.ChannellMovixDocumentary;
+import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.ChannellMovixFamilyService.ChannellMovixFamily;
+import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.ChannellMovixFantasyService.ChannellMovixFantasy;
+import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.ChannellMovixFictionService.ChannellMovixFiction;
+import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.ChannellMovixHorrorService.ChannellMovixHorror;
+import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.ChannellMovixKidsService.ChannellMovixKids;
+import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.ChannellMovixLiveConcerService.ChannellMovixLiveConcer;
+import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.ChannellMovixMysteryService.ChannellMovixMystery;
+import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.ChannellMovixThrillerService.ChannellMovixThriller;
+import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.ChannellMovixWarService.ChannellMovixWar;
+
+
 import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.RadiosService.Radios;
 import com.example.idan.plusplus.V2.Services.Retrofit2Services.Epgs.Israel.Live.UpdateSoftwareService.UpdateSoftware;
 import com.example.idan.plusplus.model.GridItem;
@@ -120,12 +152,10 @@ public class Utils {
         return getBase64StringNew("rGBLvKkvLHvbqY0639Jdmw==:iqbgwbk4GaupvIqq3Pu9HIztcRFcmhnGd17CVaMCVWM=:u0Z5cBls8gnRWWD5fck/1exLaLLO95ktt3EQ9ONK4yw=",Base64.NO_WRAP);
     }
 
-
     private static String getChannel9() {//service
 
         return getBase64StringNew("g0k2sBQ+lR+HPIdxvQng2Q==:q/EOnd0i57K5z2JZhqZuPWfblf78h5B3cyijcGhjm3I=:ZRDIcBdB2FtS4AnRPKLRd8Zvq5EegAb1IH9jqR9M9Jd+geenvQISccfFDNaorR+5YYekY1VmN+0PIrBPl69rBQ==",Base64.NO_WRAP);
     }
-
     private static String getChannelAny(String ko) {
 
         //Log.d("xxxgetChannelAny","xxxgetChannelAny" +getBase64StringNew(ko,Base64.NO_WRAP));
@@ -137,26 +167,76 @@ public class Utils {
         services.add(service);
         return service;
     }
-
+    public static ChannellMovix getChannellMovix(OnAsyncTaskLoadCompletes completeCallback) {
+        ChannellMovix channellMovix = new ChannellMovix(null,completeCallback);
+        services.add(channellMovix);
+        return channellMovix;
+    }
+    public static ChannellMovixAction getChannellMovixAction(OnAsyncTaskLoadCompletes completeCallback) {
+        ChannellMovixAction channellMovixAction = new ChannellMovixAction(null,completeCallback);
+        services.add(channellMovixAction);
+        return channellMovixAction;
+    }
     public static Channell11 getChannell11(OnAsyncTaskLoadCompletes completeCallback) {
         Channell11 channell11 = new Channell11(null,completeCallback);
         services.add(channell11);
         return channell11;
     }
-
     public static Channell12 getChannell12(OnAsyncTaskLoadCompletes completeCallback) {
         Channell12 channell12 = new Channell12(null,completeCallback);
         services.add(channell12);
         return channell12;
     }
-
     public static Channell13 getChannell13(OnAsyncTaskLoadCompletes completeCallback) {
         Channell13 channell13 = new Channell13(null,completeCallback);
         services.add(channell13);
         return channell13;
     }
-
-
+    public static Channell5 getChannell5(OnAsyncTaskLoadCompletes completeCallback) {
+        Channell5 channell5 = new Channell5(null,completeCallback);
+        services.add(channell5);
+        return channell5;
+    }
+   /* public static Channell6 getChannell6(OnAsyncTaskLoadCompletes completeCallback) {
+        Channell6 channell6 = new Channell6(null, completeCallback);
+        services.add(channell6);
+        return channell6;
+    }*/
+    public static Channell20 getChannell20(OnAsyncTaskLoadCompletes completeCallback) {
+        Channell20 channell20 = new Channell20(null,completeCallback);
+        services.add(channell20);
+        return channell20;
+    }
+    public static Channell21 getChannell21(OnAsyncTaskLoadCompletes completeCallback) {
+        Channell21 channell21 = new Channell21(null,completeCallback);
+        services.add(channell21);
+        return channell21;
+    }
+    public static Channell23 getChannell23(OnAsyncTaskLoadCompletes completeCallback) {
+        Channell23 channell23 = new Channell23(null,completeCallback);
+        services.add(channell23);
+        return channell23;
+    }
+    public static Channell24 getChannell24(OnAsyncTaskLoadCompletes completeCallback) {
+        Channell24 channell24 = new Channell24(null,completeCallback);
+        services.add(channell24);
+        return channell24;
+    }
+    public static Channell9  getChannell9(OnAsyncTaskLoadCompletes completeCallback) {
+        Channell9 channell9 = new Channell9(null,completeCallback);
+        services.add(channell9);
+        return channell9;
+    }
+    public static Channell66 getChannell66(OnAsyncTaskLoadCompletes completeCallback) {
+        Channell66 channell66 = new Channell66(null,completeCallback);
+        services.add(channell66);
+        return channell66;
+    }
+    public static Channell97 getChannell97(OnAsyncTaskLoadCompletes completeCallback) {
+        Channell97 channell97 = new Channell97(null,completeCallback);
+        services.add(channell97);
+        return channell97;
+    }
     public static Channell99 getChannell99() {
         Channell99 channell = new Channell99(null);
         services.add(channell);
@@ -202,14 +282,45 @@ public class Utils {
             case Constants.Channels.Israel.Live.CHANNEL_RESHET_13:
                 getChannell13(null).getLiveChannell13(activity,main_fragment,gridItem, gridItem1 -> openPlayBackAcitivty(activity, gridItem1,true));
                 break;
-            case Constants.Channels.Israel.Live.CHANNEL_23:
-                getChannell11(null).getLiveChannell23(activity,main_fragment,gridItem, gridItem1 -> openPlayBackAcitivty(activity, gridItem1,true));
+            case Constants.Channels.Israel.Live.CHANNEL_5_RADIO:
+                getChannell5(null).getLiveChannell5(activity,main_fragment,gridItem, gridItem1 -> openPlayBackAcitivty(activity, gridItem1,true));
                 break;
+            case Constants.Channels.Israel.Live.CHANNEL_6:
+                getChannell6(null).getLiveChannell6(activity,main_fragment,gridItem, gridItem1 -> openPlayBackAcitivty(activity, gridItem1,true));
+                break;
+            case Constants.Channels.Israel.Live.CHANNEL_20:
+                getChannell20(null).getLiveChannell20(activity,main_fragment,gridItem, gridItem1 -> openPlayBackAcitivty(activity, gridItem1,true));
+                break;
+            case Constants.Channels.Israel.Live.CHANNEL_SHOPPING_21:
+                getChannell21(null).getLiveChannell21(activity,main_fragment,gridItem, gridItem1 -> openPlayBackAcitivty(activity, gridItem1,true));
+                break;
+
+            case Constants.Channels.Israel.Live.CHANNEL_23:
+                getChannell23(null).getLiveChannell23(activity,main_fragment,gridItem, gridItem1 -> openPlayBackAcitivty(activity, gridItem1,true));
+                break;
+            case Constants.Channels.Israel.Live.CHANNEL_MUSIC_24:
+                getChannell24(null).getLiveChannell24(activity,main_fragment,gridItem, gridItem1 -> openPlayBackAcitivty(activity, gridItem1,true));
+                break;
+
             case Constants.Channels.Israel.Live.CHANNEL_33:
                 getChannell11(null).getLiveChannell33(activity,main_fragment,gridItem, gridItem1 -> openPlayBackAcitivty(activity, gridItem1,true));
                 break;
+            case Constants.Channels.Israel.Live.CHANNEL_66:
+                getChannell66(null).getLiveChannell66(activity,main_fragment,gridItem, gridItem1 -> openPlayBackAcitivty(activity, gridItem1,true));
+                break;
+
+            case Constants.Channels.Israel.Live.CHANNEL_97:
+                getChannell97(null).getLiveChannell97(activity,main_fragment,gridItem, gridItem1 -> openPlayBackAcitivty(activity, gridItem1,true));
+                break;
+            case Constants.Channels.Israel.Live.CHANNEL_9:
+                //i == 9
+                getChannell9(null).getLiveChannell9( activity,main_fragment,gridItem, gridItem1 -> openPlayBackAcitivty(activity, gridItem1,true));
+                // getChannell12(null).getLiveChannel12(activity,main_fragment,gridItem, gridItem1 -> openPlayBackAcitivty(activity, gridItem1,true));
+
+                break;
             case Constants.Channels.Israel.Live.CHANNEL_99:
                 getChannell99().getLiveChannell99(activity,main_fragment,gridItem, gridItem1 -> openPlayBackAcitivty(activity, gridItem1,true));
+
                 break;
             default:
                 break;
